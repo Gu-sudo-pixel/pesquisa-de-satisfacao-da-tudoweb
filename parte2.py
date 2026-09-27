@@ -1,4 +1,4 @@
-for i in range(1, 3):
+for i in range(1, 51):
     print(f"\n---entrevistado--- {i}")
 
     print("seja bem-vindo(a) a nossa pesquisa de satisfação")
